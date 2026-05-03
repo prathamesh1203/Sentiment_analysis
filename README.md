@@ -133,8 +133,8 @@ The Streamlit dashboard (`app/app.py`) brings everything together:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Nivrutti499/SNP-twitter.git
-cd SNP-twitter
+git clone https://github.com/prathamesh1203/Sentiment_analysis.git
+cd Sentiment_analysis
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -191,5 +191,5 @@ All trained model files are stored in the `models/` directory and tracked in thi
 
 ## 👤 Author
 
-**Nivrutti** — SNP Twitter Project  
-GitHub: [Nivrutti499/SNP-twitter](https://github.com/Nivrutti499/SNP-twitter)
+**prathamesh patil** — Sentiment Analysis Project  
+GitHub: [prathamesh1203/Sentiment_analysis](https://github.com/prathamesh1203/Sentiment_analysis)
